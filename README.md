@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Lil-Wrld-07
-- 👀 I’m a Developer
-- 🌱 I’m currently learning Ar and Vr Development
-- 💞️ I’m looking to collaborate on virtual Reality Projects
-
-<!---
-Lil-Wrld-07/Lil-Wrld-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![logo](https://github.com/Lil-Wrld-07/Lil-Wrld-07/assets/136846350/c8fdc188-349f-4819-b791-ad71ce9a5971)
+                                   🐒! i'm LilWrld developer from india
+                                         looking for collabration in ar and vr dvelopment Projects
