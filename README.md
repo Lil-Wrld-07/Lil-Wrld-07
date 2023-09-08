@@ -1,4 +1,4 @@
-![monkey](https://github.com/Lil-Wrld-07/Lil-Wrld-07/assets/136846350/d5d5660a-6b28-4dc1-b2d3-d353dd0b5762)
+![monkey (1)](https://github.com/Lil-Wrld-07/Lil-Wrld-07/assets/136846350/e175cf2d-ec7a-4c7e-abb4-c52f38f6df79)
 
                                    
                              heyoo     ! i'm LilWrld developer from india
